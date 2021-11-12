@@ -11,8 +11,8 @@
  #define _MYSQL_EXECUTABLE          R"(@MYSQL_EXECUTABLE@)"
  #define _FULL_DATABASE             "BFADB_837_world_2020_12_22.sql"
  #define _HOTFIXES_DATABASE         "BFADB_837_hotfixes_2020_12_22.sql"
- #define VER_COMPANYNAME_STR        "BfaCore Developers"
- #define VER_LEGALCOPYRIGHT_STR     "(c)2021 BfaCore"
+ #define VER_COMPANYNAME_STR        "LoA Core Developers"
+ #define VER_LEGALCOPYRIGHT_STR     "(c)2021 Legends of Azeroth"
  #define VER_FILEVERSION            0,0,0
  #define VER_FILEVERSION_STR        "@rev_hash@ @rev_date@ (@rev_branch@ branch)"
  #define VER_PRODUCTVERSION         VER_FILEVERSION
