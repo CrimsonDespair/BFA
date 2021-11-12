@@ -26,7 +26,7 @@ Our core is mostly based on TrinityCore, written in c++ and sql.
 * MySql 5.7.32
 
 
-* Minimal Client (1.57Gb)
+* Minimal Client (1.57Gb).
 
 https://mega.nz/file/P9owATCA#M-n0T4mMqj-3nqAncpIVQ_ktHe-uN_07TSzid8WiKKY
 
