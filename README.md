@@ -55,6 +55,6 @@ Windows, Linux and macOS.
 
 ## Links
 
-* [BfaCore Discord](https://discord.gg/J2XezBR9Sw)
+* [LOA BFA Discord](https://discord.gg/J2XezBR9Sw)
 
 
